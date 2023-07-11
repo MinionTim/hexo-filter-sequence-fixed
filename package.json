@@ -1,6 +1,6 @@
 {
-  "name": "hexo-filter-sequence",
-  "version": "1.0.3",
+  "name": "hexo-filter-sequence-fixed",
+  "version": "1.0.0",
   "description": "Generate UML sequence diagrams for Hexo.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/hexo-filter-sequence.git"
+    "url": "git+https://github.com/MinionTim/hexo-filter-sequence-fixed.git"
   },
   "keywords": [
     "hexo",
@@ -18,14 +18,14 @@
     "markdown"
   ],
   "author": {
-    "name": "bubkoo.wy",
-    "email": "bubkoo.wy@gmail.com"
+    "name": "MinionTim",
+    "email": "ville.zeng@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bubkoo/hexo-filter-sequence/issues"
+    "url": "https://github.com/MinionTim/hexo-filter-sequence-fixed/issues"
   },
-  "homepage": "https://github.com/bubkoo/hexo-filter-sequence#readme",
+  "homepage": "https://github.com/MinionTim/hexo-filter-sequence-fixed",
   "dependencies": {
     "deep-assign": "^2.0.0"
   }

@@ -1,17 +1,22 @@
 # hexo-filter-sequence
 
-[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-sequence/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/MinionTim/hexo-filter-sequence-fixed/blob/master/LICENSE)
 
-[![npm:](https://img.shields.io/npm/v/hexo-filter-sequence.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-sequence)
-[![Package Quality](http://npm.packagequality.com/shield/hexo-filter-sequence.svg)](http://packagequality.com/#?package=hexo-filter-sequence)
+[![npm:](https://img.shields.io/npm/v/hexo-filter-sequence.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-sequence-fixed)
+[![Package Quality](http://npm.packagequality.com/shield/hexo-filter-sequence.svg)](http://packagequality.com/#?package=hexo-filter-sequence-fixed)
 
 > Generate UML sequence diagrams for Hexo.
 
 ## Install
 
 ```
-npm install --save hexo-filter-sequence
+npm install --save hexo-filter-sequence-fixed
 ```
+
+## Changelog
+- 2023/07/11 bugfix 
+  > 1、plugin not works on hexo；<br>
+  > 2、update sequence-diagram-min.js version to 2.0.x to fix in [isses](https://github.com/bramp/js-sequence-diagrams/issues/15js-sequence-diagrams)
 
 ## Usage
 
